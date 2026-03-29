@@ -109,6 +109,6 @@ Auravest follows the **'Oasis' Design System**:
 ---
 
 <div align="center">
-  <p>Built with ❤️ by the Auravest Team</p>
+  <p>Built with ❤️ by the Sawlay Singh</p>
   <p><em>"Your money, amplified by intelligence."</em></p>
 </div>
