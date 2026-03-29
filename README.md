@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="C:\Users\Sawlay Singh\.gemini\antigravity\brain\ff31be5c-0b48-4bb4-848f-3c50069440a5\auravest_premium_logo_v1774844528000_v1774844528000_v_final_1774855660000_v_final_1774866792000_1774796004619.png" width="200" alt="Auravest Logo">
+  <img src="C:\Users\Sawlay Singh\.gemini\antigravity\scratch\auravest\public\auravest_premium_logo_v1.png" width="200" alt="Auravest Logo">
   <h1>Auravest</h1>
   <p><strong>Your Private Financial Oasis</strong></p>
   
