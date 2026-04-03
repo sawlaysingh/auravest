@@ -4,9 +4,9 @@ import { useState, useEffect } from 'react';
 
 const stats = [
   { value: '$2.4M+', label: 'Assets Tracked' },
-  { value: '98%',    label: 'Portfolio Accuracy' },
-  { value: '12K+',   label: 'Active Users' },
-  { value: '4.9★',   label: 'User Rating' },
+  { value: '98%', label: 'Portfolio Accuracy' },
+  { value: '12K+', label: 'Active Users' },
+  { value: '4.9★', label: 'User Rating' },
 ];
 
 const features = [
@@ -296,7 +296,7 @@ export default function LandingPage() {
         color: 'var(--text-muted)',
         fontSize: 12,
       }}>
-        © 2025 Auravest. Built for your financial future.
+        © 2026 Auravest. Built for your financial future.
       </footer>
     </div>
   );
